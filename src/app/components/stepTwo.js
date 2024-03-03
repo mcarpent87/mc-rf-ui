@@ -26,7 +26,7 @@ const StepTwo = () => {
     ]);
   };
   return (
-    <div className="container-outer">
+    <div>
       <header className="step-header">
         <b>Step 2:</b> &nbsp; Build registration workflows.
       </header>
