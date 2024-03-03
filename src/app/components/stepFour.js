@@ -57,7 +57,7 @@ const StepFour = () => {
                 </div>
               </div>
               <div>
-                <p className="step-subtext">
+                <p className="step-subtext-4-sm">
                   Manage the portal that attendees will see after they’ve
                   register for your event.
                 </p>
@@ -75,7 +75,7 @@ const StepFour = () => {
                 </div>
               </div>
               <div>
-                <p className="step-subtext">
+                <p className="step-subtext-4-sm">
                   Manage the portal that attendees will see after they’ve
                   register for your event.
                 </p>
@@ -93,7 +93,7 @@ const StepFour = () => {
                 </div>
               </div>
               <div>
-                <p className="step-subtext">
+                <p className="step-subtext-4-sm">
                   Manage the portal that attendees will see after they’ve
                   register for your event.
                 </p>
