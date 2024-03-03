@@ -43,9 +43,15 @@ p {
   margin-bottom: 8px;
 }
 
+.step-title {
+  font-size: 13px;
+  margin: 0;
+}
+
 .step-subtext {
   text-align: left;
   font-size: 12px;
+  width: 80%;
 }
 
 //Org Settings
@@ -86,6 +92,12 @@ p {
   justify-content: flex-start;
 }
 
+.step-subtext-2 {
+  font-size: 12px;
+  text-align: left;
+  width: 85%;
+}
+
 //Step 3
 .card,
 .card-step-3 {
@@ -114,7 +126,7 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 32px;
+  padding: 8px 0px 0px 32px;
 }
 
 .card-step-3 .icon {
@@ -124,11 +136,6 @@ p {
 
 .card-step-3 .text {
   display: inline-block;
-}
-
-.step-3-title {
-  font-size: 13px;
-  margin: 0;
 }
 
 //styles for step 4
@@ -151,11 +158,8 @@ p {
   color: white;
 }
 
-.col.column1 {
-  display: flex;
-}
-
 .column1 {
+  display: flex;
   flex: 3;
 }
 

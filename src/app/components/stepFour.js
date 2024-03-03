@@ -2,7 +2,7 @@ import React from "react";
 
 const StepFour = () => {
   return (
-    <div className="col">
+    <div>
       <header className="step-header">
         <b>Step 4:</b> &nbsp; Build your exhibitor platform.
       </header>

@@ -2,7 +2,7 @@ import React from "react";
 
 const StepThree = () => {
   return (
-    <div className="col">
+    <div>
       <header className="step-header">
         <b>Step 3:</b> &nbsp; Design attendee experiences.
       </header>
@@ -13,7 +13,7 @@ const StepThree = () => {
               <img src="/computer.svg" alt="Icon" />
             </div>
             <div className="text">
-              <h5 className="step-3-title">Attendee Portal</h5>
+              <h5 className="step-title">Attendee Portal</h5>
             </div>
           </div>
           <div className="additional-text">

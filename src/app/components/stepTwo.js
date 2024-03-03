@@ -26,7 +26,7 @@ const StepTwo = () => {
     ]);
   };
   return (
-    <div className="col">
+    <div>
       <header className="step-header">
         <b>Step 2:</b> &nbsp; Build registration workflows.
       </header>
@@ -38,11 +38,11 @@ const StepTwo = () => {
                 <img src="/logic_arrow.svg" alt="Icon" />
               </div>
               <div className="text">
-                <h5 className="step-3-title">{workflow.title}</h5>
+                <h5 className="step-title">{workflow.title}</h5>
               </div>
             </div>
             <div className="additional-text">
-              <p className="step-subtext">{workflow.subtext}</p>
+              <p className="step-subtext-2">{workflow.subtext}</p>
             </div>
           </div>
         ))}
