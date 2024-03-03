@@ -41,7 +41,7 @@ const StepTwo = () => {
                 <h5 className="step-title">{workflow.title}</h5>
               </div>
             </div>
-            <div className="additional-text">
+            <div>
               <p className="step-subtext-2">{workflow.subtext}</p>
             </div>
           </div>

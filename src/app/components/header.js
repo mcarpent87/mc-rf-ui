@@ -4,13 +4,13 @@ const Header = ({ title }) => {
   return (
     <>
       <div className="container">
-        <div className="col column1">
+        <div className="column">
           <div className="image-wrapper">
             <img src="/logo_mountains.svg" alt="Mountains" />
           </div>
           <div className="text-wrapper">
-            <p className="title">{title}</p>
-            <p className="subtitle">
+            <p className="header-title">{title}</p>
+            <p className="header-subtitle">
               December 15th <br /> Lehi, Utah
             </p>
           </div>

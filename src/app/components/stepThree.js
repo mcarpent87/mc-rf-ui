@@ -12,11 +12,11 @@ const StepThree = () => {
             <div className="icon">
               <img src="/computer.svg" alt="Icon" />
             </div>
-            <div className="text">
+            <div>
               <h5 className="step-title">Attendee Portal</h5>
             </div>
           </div>
-          <div className="additional-text">
+          <div>
             <p className="step-subtext">
               Manage the portal that attendees will see after they've registered
               for your event.

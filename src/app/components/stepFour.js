@@ -18,7 +18,7 @@ const StepFour = () => {
                   <h5 className="step-title">Exhibitor Portal</h5>
                 </div>
               </div>
-              <div className="additional-text">
+              <div>
                 <p className="step-subtext-4">
                   Manage the portal that attendees will see after they've
                   registered for your event.
@@ -36,7 +36,7 @@ const StepFour = () => {
                   <h5 className="step-title">Exhibitor List</h5>
                 </div>
               </div>
-              <div className="additional-text">
+              <div>
                 <p className="step-subtext-4">
                   Manage the portal that attendees will see after they’ve
                   register for your event.
@@ -56,7 +56,7 @@ const StepFour = () => {
                   <h5 className="step-title">Exhibitor Logos</h5>
                 </div>
               </div>
-              <div className="additional-text">
+              <div>
                 <p className="step-subtext">
                   Manage the portal that attendees will see after they’ve
                   register for your event.
@@ -74,7 +74,7 @@ const StepFour = () => {
                   <h5 className="step-title">Exhibitor Tasks</h5>
                 </div>
               </div>
-              <div className="additional-text">
+              <div>
                 <p className="step-subtext">
                   Manage the portal that attendees will see after they’ve
                   register for your event.
@@ -92,7 +92,7 @@ const StepFour = () => {
                   <h5 className="step-title">Exhibitor Forms</h5>
                 </div>
               </div>
-              <div className="additional-text">
+              <div>
                 <p className="step-subtext">
                   Manage the portal that attendees will see after they’ve
                   register for your event.

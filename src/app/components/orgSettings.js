@@ -7,7 +7,7 @@ import StepFour from "./stepFour";
 const OrgSettings = () => {
   return (
     <div className="org-settings-container">
-      <div className="col column1">
+      <div className="column">
         <div className="image-wrapper">
           <img src="/person_portal.svg" alt="Mountains" />
         </div>
