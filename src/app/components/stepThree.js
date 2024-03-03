@@ -2,7 +2,7 @@ import React from "react";
 
 const StepThree = () => {
   return (
-    <div>
+    <div className="container-step-3">
       <header className="step-header">
         <b>Step 3:</b> &nbsp; Design attendee experiences.
       </header>
