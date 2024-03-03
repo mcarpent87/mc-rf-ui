@@ -87,6 +87,11 @@ p {
   font-weight: bold;
 }
 
+//Step 1
+.container-step-1 {
+  margin-bottom: 24px;
+}
+
 //Step 2
 .card-step-2 {
   border: 1px solid #cccccc;
@@ -107,6 +112,10 @@ p {
 
 .card-subtitle {
   font-size: 12px;
+}
+
+.container-outer {
+  margin-bottom: 24px;
 }
 
 .container-step-2 {

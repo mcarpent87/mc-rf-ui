@@ -2,7 +2,7 @@ import React from "react";
 
 const StepOne = () => {
   return (
-    <div>
+    <div className="container-step-1">
       <header className="step-header">
         <b>Step 1:</b> &nbsp; Base settings.
       </header>
